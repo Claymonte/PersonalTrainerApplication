@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "bootstrap": "^4.3.1",
+    "file-loader": "^3.0.1",
+    "firebase": "^6.0.1",
+    "moment": "^2.24.0",
     "react": "^16.8.6",
+    "react-big-calendar": "^0.20.4",
+    "react-browser-router": "^2.1.2",
+    "react-csv": "^1.1.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "react-table": "^6.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
